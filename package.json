@@ -1,0 +1,14 @@
+{
+  "name": "eslint-extension-debug",
+  "version": "1.0.0",
+  "description": "Testing eslint vscode extension",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.28.0"
+  }
+}
